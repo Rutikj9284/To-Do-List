@@ -134,8 +134,8 @@ app.post("/delete", function (req, res) {
 // })
 
 
-app.listen(3000, function () {
-  console.log("3000");
+app.listen(5000, function () {
+  console.log("5000");
 });
 
 // Item.insertMany(arr
